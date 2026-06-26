@@ -1,0 +1,6 @@
+{
+  "name": "Ide Konten Generator",
+  "description": "Aplikasi AI pembuat ide konten kreatif, teks skenario, konsep visual, dan takarir (caption) media sosial dengan analisis brief teks dan gambar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
